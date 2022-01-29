@@ -7,8 +7,9 @@
   <a href="mailto:mohamedessam12345678@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ <a href="https://www.codewars.com/users/3oss2000">
 <img src="https://www.codewars.com/users/3oss2000/badges/large">
-
+</a>
 <!--
 Here are some ideas to get you started:
 
